@@ -1,7 +1,7 @@
 
 # Voice Recognition
 
-**Voice Notepad** is a Python program that allows users to create text files and add content to them using voice commands.  
+**Voice Recognition** is a Python program that allows users to create text files and add content to them using voice commands.  
 
 ## Overview  
 
